@@ -13,5 +13,6 @@
 	<classpathentry kind="lib" path="/com.dexter.rest/WebContent/WEB-INF/lib/jersey-servlet-1.19.jar"/>
 	<classpathentry kind="lib" path="/com.dexter.rest/WebContent/WEB-INF/lib/jettison-1.1.jar"/>
 	<classpathentry kind="lib" path="/com.dexter.rest/WebContent/WEB-INF/lib/jsr311-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="mongo-java-driver-2.13.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
