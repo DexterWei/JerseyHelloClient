@@ -12,7 +12,7 @@ public class tester {
 	public static void main(String[] args){
 		String BootstrapUrl="http://localhost:8080/com.dexter.rest/rest/chats/post";
 		TestClient client = new TestClient();
-		client.Initiate("fridge", "Simense",BootstrapUrl);
+		client.Initiate("XiaoMi","TVBox", "TV20150101001",BootstrapUrl);
 		client.SendPostRequest();
 	}
 }
